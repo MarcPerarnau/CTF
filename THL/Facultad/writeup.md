@@ -1,5 +1,7 @@
 # FACULTAD
 
+![image](RECURSOS/writeup.png)
+
 Dificultad: Fácil
 
 Fecha: 15/03/2025
